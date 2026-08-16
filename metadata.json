@@ -1,0 +1,6 @@
+{
+  "name": "Financial Multi-Agent Investment Committee",
+  "description": "Multi-agent due diligence orchestrator running 11 autonomous institutional desks for deep equity research and committee deliberations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
